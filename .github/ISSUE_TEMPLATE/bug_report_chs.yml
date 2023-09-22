@@ -34,3 +34,11 @@ body:
       placeholder: 2.4.0 (24015) 游戏版本可前往游戏设置-关于，在底部查看
     validations:
         required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 附件
+      description: 提交屏幕截图、调试日志等相关附件帮助我们快速修复问题
+      placeholder: 请直接点击下方的长条`Attach files by dragging ...`以选择上传文件，或直接将文件拖入此长条中。
+    validations:
+        required: false

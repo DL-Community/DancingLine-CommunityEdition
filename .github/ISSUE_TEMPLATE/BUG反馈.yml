@@ -1,5 +1,5 @@
-name: BUG反馈
-description: 向游戏开发者提交BUG
+name: "BUG反馈"
+description: "向游戏开发者提交BUG"
 title: "[Bug]: "
 labels: ["bug"]
 body:

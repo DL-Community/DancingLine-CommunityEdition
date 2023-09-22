@@ -8,7 +8,7 @@ body:
     attributes:
       label: Describe the bug
       description: A clear and concise description of what the bug is.
-      placeholder: ...
+      placeholder: Describe the bug in details...
     validations:
       required: true
   - type: textarea
@@ -16,10 +16,7 @@ body:
     attributes:
       label: To Reproduce
       description: Steps to reproduce the behavior
-      placeholder: "1. Go to ''...''\n
-      2. Click on ''....''\n
-      3. Scroll down to ''....''\n
-      4. See error\n"
+      placeholder: "1. Go to ''...''\n2. Click on ''....''\n3. Scroll down to ''....''\n4. See error\n"
     validations:
       required: true
   - type: textarea

@@ -34,7 +34,7 @@ body:
       placeholder: 2.4.0 (24015)
     validations:
         required: true
-  - type: input
+  - type: textarea
     id: attachments
     attributes:
       label: Attachments

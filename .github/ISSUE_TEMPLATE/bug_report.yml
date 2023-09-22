@@ -16,7 +16,7 @@ body:
     attributes:
       label: To Reproduce
       description: Steps to reproduce the behavior
-      placeholder: "1. Go to ''...''\n2. Click on ''....''\n3. Scroll down to ''....''\n4. See error\n"
+      placeholder: "1. Go to ''...''\n2. Click on ''....''\n3. Then ''....''\n4. See error\n"
     validations:
       required: true
   - type: textarea
@@ -31,7 +31,7 @@ body:
     attributes:
       label: Game Version
       description: What version of the game are you running?
-      placeholder: 2.4.0 (24015)
+      placeholder: 2.4.0 (24015) To check for the version, go to Game Setting - About - See version at the bottom.
     validations:
         required: true
   - type: textarea
@@ -39,6 +39,6 @@ body:
     attributes:
       label: Attachments
       description: Upload attachments such as screenshots, debug log etc.
-      placeholder: Upload attachments by clicking or dragging files to the bar right below this text.
+      placeholder: Upload attachments by clicking or dragging files to the bar right below this text after clicking on this box.
     validations:
         required: false

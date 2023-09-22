@@ -17,9 +17,9 @@ body:
       label: To Reproduce
       description: Steps to reproduce the behavior
       placeholder: "1. Go to ''...''\n
-        2. Click on ''....''\n
-        3. Scroll down to ''....''\n
-        4. See error\n"
+      2. Click on ''....''\n
+      3. Scroll down to ''....''\n
+      4. See error\n"
     validations:
       required: true
   - type: textarea

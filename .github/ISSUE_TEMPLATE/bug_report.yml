@@ -34,3 +34,11 @@ body:
       placeholder: 2.4.0 (24015)
     validations:
         required: true
+  - type: input
+    id: attachments
+    attributes:
+      label: Attachments
+      description: Upload attachments such as screenshots, debug log etc.
+      placeholder: Upload attachments by clicking or dragging files to the bar right below this text.
+    validations:
+        required: false

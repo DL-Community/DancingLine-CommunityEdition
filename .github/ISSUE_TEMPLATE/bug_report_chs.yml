@@ -39,6 +39,6 @@ body:
     attributes:
       label: 附件
       description: 提交屏幕截图、调试日志等相关附件帮助我们快速修复问题
-      placeholder: 请直接点击下方的长条 “Attach files by dragging ...” 以选择上传文件，或直接将文件拖入此长条中。
+      placeholder: 点击此文本框之后再点击下方的长条 “Attach files by dragging ...” 以选择上传文件，或直接将文件拖入此长条中。
     validations:
         required: false

@@ -1,0 +1,36 @@
+name: BUG反馈
+description: 向游戏开发者提交BUG
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: BUG描述
+      description: 请详细描述此BUG
+      placeholder: BUG描述...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: BUG复现
+      description: 如何复现此BUG
+      placeholder: "1. 前往 ''...''\n2. 点击 ''....''\n3. 然后 ''....''\n4.BUG产生\n"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望的结果
+      description: 如果没有发生BUG，你原本期望游戏发生什么？
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: 游戏版本
+      description: 你在哪个版本遇到的这个BUG？
+      placeholder: 2.4.0 (24015) 游戏版本可前往游戏设置-关于，在底部查看
+    validations:
+        required: true

@@ -16,7 +16,10 @@ body:
     attributes:
       label: To Reproduce
       description: Steps to reproduce the behavior
-      placeholder: 1. Go to '...' \n2. Click on '....' \n3. Scroll down to '....' \n4. See error
+      placeholder: "1. Go to '...' 
+        2. Click on '....' 
+        3. Scroll down to '....' 
+        4. See error"
     validations:
       required: true
   - type: textarea

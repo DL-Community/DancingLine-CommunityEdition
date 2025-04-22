@@ -23,7 +23,7 @@ body:
     id: expected
     attributes:
       label: 期望的结果
-      description: 如果没有发生BUG，你原本期望游戏发生什么？
+      description: 假设没有发生BUG，那么你原本期望游戏发生什么？
     validations:
       required: false
   - type: input
@@ -31,7 +31,7 @@ body:
     attributes:
       label: 游戏版本
       description: 你在哪个版本遇到的这个BUG？
-      placeholder: 2.4.0 (24015) 游戏版本可前往游戏设置-关于，在底部查看
+      placeholder: 3.5.1.1463 游戏版本可前往游戏设置-关于，在底部查看
     validations:
         required: true
   - type: textarea

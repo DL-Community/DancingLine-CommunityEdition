@@ -11,8 +11,5 @@ DLCE public repository. **For bug submission, download alternative stuff etc.**
 - [macOS] Use terminal command `sudo xattr -r -d com.apple.quarantine /Applications/Dancing\ Line\ CE.app` to fix the error of "**'Dancing Line CE.app' is damaged and can’t be opened. You should move it to the Trash.**"
 
 ## [问题反馈 · BUG Report](https://github.com/DL-Community/DancingLine-CommunityEdition/issues/new/choose)
-- 选择一个反馈模板，点击旁边绿色的“Get started”按钮
-- 按照要求填写相关信息
-- 点击`Submit new issue`提交你的问题
 
 ## [DLCE 文档站 · DLCE Wiki](https://dl-community.github.io/Docs)

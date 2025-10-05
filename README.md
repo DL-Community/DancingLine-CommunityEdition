@@ -15,4 +15,4 @@ DLCE public repository. **For bug submission, download alternative stuff etc.**
 - 按照要求填写相关信息
 - 点击`Submit new issue`提交你的问题
 
-## [DLCE 文档站 · DLCE Wiki](https://dlce.fengyan.ip-ddns.com/#/home)
+## [DLCE 文档站 · DLCE Wiki](https://dl-community.github.io/Docs)

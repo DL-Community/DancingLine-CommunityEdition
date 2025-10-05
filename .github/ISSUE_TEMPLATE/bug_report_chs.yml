@@ -31,7 +31,7 @@ body:
     attributes:
       label: 游戏版本
       description: 你在哪个版本遇到的这个BUG？
-      placeholder: 3.5.1.1463 游戏版本可前往游戏设置-关于，在底部查看
+      placeholder: 例如：3.5.1.1463。 游戏版本可前往游戏设置-关于，在底部查看
     validations:
         required: true
   - type: textarea

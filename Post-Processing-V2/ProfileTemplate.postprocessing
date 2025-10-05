@@ -1,0 +1,79 @@
+; DLCE 自定义 Post Processing 配置文件
+; 每行以分号 “;” 开始的为备注，不会影响实际配置
+; 每个配置项使用等号 “=” 分割名称与数值
+; 配置项下方通常包含对应的备注，注明其作用或取值范围等
+; 将配置项删除后游戏会使用默认值（或不使用此项）。也可以在配置项前面加上分号，将其变为备注，同样可以达到删除的效果
+; Enabled 项为“true”时表示启用此效果，“false”表示关闭
+
+[Camera]
+HDR=false
+Deferred Rendering=false;
+
+[Ambient Occlusion]
+Mode=0
+; Mode 0: Scalable Ambient Obscurance
+; Mode 1: Multi Scale Volumetric Obscurance
+Intensity=0.00
+; The degree of darkness added by ambient occlusion. Higher values produce darker areas.
+; Intensity Range: 0.00 ~ 4.00
+Radius=0.00
+; For Mode 0 only
+Quality=2
+; For Mode 0 only
+Thickness Modifier=1
+; For Mode 1 only
+; Thickness Modifier Range: 1.00 ~ 10.00
+Color=#000000
+; Color in Hexadecimal #RRGGBB(AA)
+
+[Bloom]
+Intensity=0
+Threshold=1
+Soft Knee=0.50
+Clamp=65472
+Diffusion=7
+Anamorphic Ratio=0
+Color=#FFFFFF:0.0
+Fast Mode=false
+
+[Color Grading]
+Mode=1
+Tonemapping Mode=0
+Temperature=0
+Tint=0
+Post-exposure (EV)=0
+Color Filter=#FFFFFF:0.0
+Hue Shift=0
+Saturation=0
+Contrast=0
+Red Channel Mixer=100,0,0
+Green Channel Mixer=0,100,0
+Blue Channel Mixer=0,0,100
+
+[Chromatic Aberration]
+Intensity=0
+Fast Mode=false
+
+[Depth of Field]
+Focus Distance=10
+Aperture=5.6
+Focal Length=50
+Max Blur Size=1
+
+[Grain]
+Colored=true
+Intensity=0
+Size=1
+Luminance Contribution=0.8
+
+[Vignette]
+Color=#000000FF
+Center=0.5,0.5
+Intensity=0
+Smoothness=0.20
+Roundness=1
+Rounded=false
+
+[Motion Blur]
+Shutter Angle=270
+Sample Count=10

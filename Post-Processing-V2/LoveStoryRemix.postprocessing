@@ -1,0 +1,10 @@
+[Ambient Occlusion]
+Mode=0
+Intensity=0.32
+Radius=0.6
+Quality=4
+
+[Color Grading]
+Tonemapping Mode=2
+Tint=16
+Post-exposure (EV)=0.5

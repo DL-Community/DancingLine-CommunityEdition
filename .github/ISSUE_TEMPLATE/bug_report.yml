@@ -31,7 +31,7 @@ body:
     attributes:
       label: Game Version
       description: What version of the game are you running?
-      placeholder: 2.4.0 (24015) To check for the version, go to Game Setting - About - See version at the bottom.
+      placeholder: e.g. 2.4.0 (24015). To check the version, go to Game Settings - About - See version at the bottom.
     validations:
         required: true
   - type: textarea

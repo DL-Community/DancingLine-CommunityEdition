@@ -1,7 +1,7 @@
 # 跳舞的线：社区版 · Dancing Line Community Edition
-DL社区版公开仓库，用于**提交游戏BUG、下载游戏相关辅助内容**等，请注意**该仓库不提供游戏下载**。
+DL社区版公开仓库，用于**提交游戏BUG、下载游戏相关内容**等。
 
-DLCE public repository. **For bug submission, download alternative stuff etc. only**. **This repo *DOESNOT* provide download to the game**.
+DLCE public repository. **For bug submission, download alternative stuff etc.**
 
 ## [下载游戏 · Download](https://github.com/DL-Community/DancingLine-CommunityEdition/releases)
 - ⚠️ 获取Windows版本安装密钥请加入QQ群：https://dlce.fengyan.ip-ddns.com/#/dlce-group/about

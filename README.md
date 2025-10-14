@@ -1,3 +1,5 @@
+[简体中文](README-zh-CN.md) [English](README.md)
+
 # Dancing Line Community Edition
 DLCE public repository. **For bug submission, download, etc.**
 

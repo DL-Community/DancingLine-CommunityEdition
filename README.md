@@ -16,4 +16,4 @@ DLCE public repository. **For bug submission, download, etc.**
 
 ## [> BUG Report <](https://github.com/DL-Community/DancingLine-CommunityEdition/issues/new/choose)
 
-## [> DLCE Wiki <](https://dl-community.github.io/Docs)
+## [> DLCE Wiki <](https://dl-community.github.io/Docs/#/en)

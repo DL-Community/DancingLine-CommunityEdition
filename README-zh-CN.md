@@ -1,3 +1,5 @@
+[简体中文](README-zh-CN.md) [English](README.md)
+
 # 跳舞的线：社区版
 该仓库用于BUG提交与文件下载。
 

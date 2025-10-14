@@ -1,5 +1,5 @@
 # Dancing Line Community Edition
-DLCE public repository. **For bug submission, download alternative stuff etc.**
+DLCE public repository. **For bug submission, download, etc.**
 
 ## [ Download](https://github.com/DL-Community/DancingLine-CommunityEdition/releases)
 ### Windows Installation Key

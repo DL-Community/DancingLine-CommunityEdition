@@ -2,6 +2,8 @@
 DLCE public repository. **For bug submission, download alternative stuff etc.**
 
 ## [ Download](https://github.com/DL-Community/DancingLine-CommunityEdition/releases)
+### Windows Installation Key
+
 - ⚠️ To get the installation key for Windows version, please join our Discord server: https://discord.gg/8Ew5n3XadT
 
 ### macOS

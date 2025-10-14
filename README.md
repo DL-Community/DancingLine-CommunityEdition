@@ -1,7 +1,7 @@
 # Dancing Line Community Edition
 DLCE public repository. **For bug submission, download, etc.**
 
-## [ Download](https://github.com/DL-Community/DancingLine-CommunityEdition/releases)
+## [> Download <](https://github.com/DL-Community/DancingLine-CommunityEdition/releases)
 ### Windows Installation Key
 
 - ⚠️ To get the installation key for Windows version, please join our Discord server: https://discord.gg/8Ew5n3XadT
@@ -14,6 +14,6 @@ DLCE public repository. **For bug submission, download, etc.**
 - Use terminal command `sudo xattr -r -d com.apple.quarantine /Applications/Dancing\ Line\ CE.app` to fix the error of "**'Dancing Line CE.app' is damaged and can’t be opened. You should move it to the Trash.**"
   
 
-## [BUG Report](https://github.com/DL-Community/DancingLine-CommunityEdition/issues/new/choose)
+## [> BUG Report <](https://github.com/DL-Community/DancingLine-CommunityEdition/issues/new/choose)
 
-## [DLCE Wiki](https://dl-community.github.io/Docs)
+## [> DLCE Wiki <](https://dl-community.github.io/Docs)

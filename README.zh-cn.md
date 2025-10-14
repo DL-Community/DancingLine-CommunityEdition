@@ -1,5 +1,5 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
-[![zh-cn](https://img.shields.io/badge/语言-简体中文-red.svg)](README-zh-cn.md)
+[![zh-cn](https://img.shields.io/badge/语言-简体中文-red.svg)](README.zh-cn.md)
 
 # 跳舞的线：社区版
 该仓库用于BUG提交与文件下载。

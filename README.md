@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![zh-cn](https://img.shields.io/badge/语言-简体中文-red.svg)](README.zh-cn.md)
 
 # Dancing Line Community Edition
